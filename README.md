@@ -1,10 +1,10 @@
 
-# FaceAttendance v.0.1 
+# FaceRecognitionCPU
 
 
 ## Introduction:
 
-FaceAttendance uses Fast-MTCNN, Arcface, RetinaFace, and the TVM stack. The facial recognition camera
+FaceRecognitionCPU uses Fast-MTCNN, Arcface, RetinaFace, and the TVM stack. The facial recognition camera
 pipline can be ran on CPU (2.8 GHZ is enough for real time) for near real-time facial recognition.
 In addition, FaceAttendance includes AutoTVM capabilties for further model optimization and tuning.
 
