@@ -7,7 +7,7 @@
 FaceAttendance uses Fast-MTCNN, Arcface, RetinaFace, and the TVM stack. The facial recognition camera
 pipline can be ran on CPU (2.8 GHZ is enough for real time) for near real-time facial recognition.
 In addition, FaceAttendance includes AutoTVM capabilties for further model optimization and tuning.
-FaceAttendance was costructed by N0ODle for SmartnUp EdTech. 
+
 
 
 
